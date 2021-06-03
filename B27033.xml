@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nature, quality, and most excellent vertues of coffee.</title>
+            <author>Morton, Robert, fl. 1670.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27033</idno><idno type="EEBO-CITATION">99888713</idno>
+  <idno type="VID">203942</idno>
+  <idno type="EEBO-PROQUEST">2240899732</idno>
+  
+            <idno type="STC">Wing M2834</idno>
+            <idno type="STC">Interim Tract Supplement Guide 778.k.15.[11]</idno>
+            <idno type="STC">ESTC R231660</idno>
+            <idno type="PROQUEST">ocm99888713</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888713e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 203943)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E7:2[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nature, quality, and most excellent vertues of coffee.</title>
+                  <author>Morton, Robert, fl. 1670.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printed in two columns.</note>
+                  <note>Signed at end: Robert Morton.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coffee (Therapeutics) --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-11 </date>
+            <label>PFS</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>pfs </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>pfs</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:203942:1"/>
+            <head>THE Nature, Quality, and Most Excellent Vertues OF COFFEE.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is a Berry that groweth upon little Trees or Shrubs onely in the Desarts of <hi>Arabia,</hi> and is carried from thence throughout all the Grand Seigniors Dominions, which they make in<g ref="char:EOLhyphen"/>to a Drinke with water (after it is dried and powdred) of which they drink at all times, as well at meals as at other times, as hot as possible it can be indured, &amp;c.</p>
+            <p>The Nature and Quality of the Drink called <hi>Coffee,</hi> though it be commonly reported to be of a cold and dry quality, and by those who pretend to have much know<g ref="char:EOLhyphen"/>ledge thereof: yet I question not, when you have well considered what I have here presented you withall, but that you will see their knowledge to be ignorance; for I shall prove it to be moderately hot and dry; yet sup<g ref="char:EOLhyphen"/>pose I should grant, that the Berries when they are raw, or before they are dried or parched, to be cold; yet when it is dried or parched, that cold moisture is vanished away. As for example: our Barley, which is the coldest of all our Grains, yet when it is maulted it becometh hot; and Chalk, when it is burned and made into Lime, be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> exceeding hot; (and many more of the like exam<g ref="char:EOLhyphen"/>ples I could acquaint you with, but this is sufficient.) The same may be said of <hi>Coffee</hi>: the reason is, because the mercurial substance, which is the moist and airy parts (as the Chymists so term it) to be evaporated away. Again, they say <hi>Coffee</hi> doth help Digestion, and the Gout, Scurvy, and Hypocondriack Winds; which are very true: but if it were cold, it would be so far from curing those Di<g ref="char:EOLhyphen"/>seases, that it were even enough to breed them: for the Diseases are cold, and experience teacheth us that cold things hinder digestion: likewise cold things causeth sleep (as you may witness in Feavers) but this hinders sleep; liewise I affirm it to be hot and dry, because <hi>O<g ref="char:EOLhyphen"/>pium,</hi> which is cold and moist, is taken when they have drank plentifully of <hi>Coffee,</hi> for they are contrary or oppo<g ref="char:EOLhyphen"/>site one to the other, for cold things dulls the brain, hot things quickeneth it; cold things hurt the Stomack and Liver, moderate hot and dry things strenghthens them &amp;c.</p>
+            <div type="part">
+               <head>Its VERTuES.</head>
+               <p>IT being drank at any time, drieth up moist and wa<g ref="char:EOLhyphen"/>terish humours, and expelleth wind; that's the reason why those people that are troubled with those humours in their bowels, are by it provoked to stool; it very much strengthneth the Liver, and is as true an Hepatical Medi<g ref="char:EOLhyphen"/>cine as any is, it being moderately binding and cleansing; it helpeth those that have the Dropsie by its drying qual<g ref="char:EOLhyphen"/>lity; it helpeth the Jaundice, Scirrh of the Liver, and ob<g ref="char:EOLhyphen"/>structions of the same, by its cleansing quality; its also good against the Itch, Scabs, and corruption of blood; it mightily refresheth the Heart and Vitals; it is a true Cor<g ref="char:EOLhyphen"/>dial; it helpeth swooning, palpitation, and weakness of the heart. In the stomack, it helpeth want of Appetite, Concoction, Pains in the Stomack, called <hi>Dolor ventriculis,</hi> and the Disease called <hi>Cholera.</hi> In fine, it exceedingly strengthneth the Stomack in the Brain, it helpeth all cold, moist, and drowsie distempers, as the <hi>Coma, Lethar<g ref="char:EOLunhyphen"/>gii, C<gap reason="illegible" resp="#murp" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>,</hi> and <hi>Appoplexy, Catalepsis, Palsie, Convulsion, <gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ling-Sickness, Trembling, Melanchioly, Catarrhe,</hi> or <hi>Defluxi<g ref="char:EOLhyphen"/>on</hi> and pains in the head: The Steem is good for <hi>Rheumes</hi> in the Eyes, and for Pains and Noise in the Ears, and for dulness of Hearing; it is good for the falling down of the Pallat, and for the <hi>Squinzie,</hi> if from a cold Rheume; it is good for difficulty of breathing, the <hi>Consumption, Ptisick,</hi> and all Rheumes falling upon the Lungs. Note, if the Matter or Phlegme be thick, then sweeten it with Sugar-Candy to humect it. Its good against all <hi>Hypocondriack Winds</hi>; for the <hi>Scurvy</hi>; and for pains of the <hi>Spleen.</hi> It gently purgeth by Urine; a good Drink for those that are troubled with the <hi>Stone</hi> in the Reins or Bladder; also for stoppage of Urine, and the <hi>Strangury,</hi> and for the <hi>Chlorosis, White Feaver, White Jaundice,</hi> commonly called the <hi>Green-sickness.</hi> Its excellent good to prevent Miscar<g ref="char:EOLhyphen"/>riage; it is good against the <hi>Gout, Sciatica,</hi> and for all Rheumes and Rheumatick Pains in the whole body; it is good against the <hi>Cholick, Iliack Passion,</hi> and for <hi>Fluxes</hi>; good against the <hi>Worms</hi>; art thou surfeited with Glutton<g ref="char:EOLhyphen"/>ny or Drunkenness, then let this be thy common Drink; do you eat much Fruit, then drink much of this. In the Spring when Humours do increase, then make good use of this. In Summer, when thy Appetite is small, and thy Digestion weak, then of <hi>Coffee</hi> mayest thou partake. This Drink may best agree with our Constitutions onely in the Spring, Summer, Autumn, and Winter; and as to the time of the day, at any time till within two or three hours of your going to bed, for its operation will not last above two or three hours. You may not fear any hurt by the due and moderate use of it.</p>
+            </div>
+            <div type="part">
+               <head>THEE, or TEA.</head>
+               <p>IT is an Herb that groweth in <hi>China</hi> and <hi>Japonia</hi> it is moderately hot and binding; this wholsome Herb preserveth in perfect health till very old age; it maketh the Body active and lusty; it helpeth Head-ach and hea<g ref="char:EOLhyphen"/>viness thereof, Lippitude, Distillations, and difficulty of breathing, weakness of the Ventricle, Pains of the Bow<g ref="char:EOLhyphen"/>els, Lassitude; it is also good for the Stone, and for any sharp Rheumes whatsoever, &amp;c.</p>
+            </div>
+            <div type="epigraph">
+               <lg>
+                  <l>To raise our <hi>Coffee</hi> in a Verse or two,</l>
+                  <l>Is more then all the peopled World can do;</l>
+                  <l>Whose rare transcendent Vertues so extend,</l>
+                  <l>It cannot be within a Poem penn'd.</l>
+                  <l>Let this suffice (though many it displeases)</l>
+                  <l>Our wholsome Liquor helpeth most Diseases.</l>
+               </lg>
+               <byline>By <hi>Robert Morton.</hi>
+               </byline>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
